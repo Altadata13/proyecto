@@ -81,7 +81,7 @@
       <a class="p-2 link-secondary" href="#aviacion">Aviación</a>
       <a class="p-2 link-secondary" href="#ia">IA</a>
       <a class="p-2 link-secondary" href="#fb">Facebook</a>
-         <a class="p-2 link-secondary" href="#lg">Lenguajes de Programación</a>
+         <a class="p-2 link-secondary" href="#lp">Lenguajes de Programación</a>
       <a class="p-2 link-secondary" href="#rt">Robots</a>
       <a class="p-2 link-secondary" href="#md">Marketing Digital</a>
     </nav>
